@@ -1,0 +1,145 @@
+
+
+.folap
+ {
+   background-color: white; 
+ }
+ 
+.csikdoboz
+ {
+  display: block;
+  width: 100%;
+ }
+ 
+.csikbetu
+ {
+  font-family: Times New Roman, Times, serif;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px; 
+  
+  color: purple;
+  background-color: white;
+ }
+   
+.menualap 
+ {
+  width: 100%;
+ }
+ 
+.menubetu
+ {
+  display: inline-block;
+  min-width: 30%;
+  
+  font-size: 100%;
+  font-family: Arial,Arial,sans-serif;
+  
+  color: white;
+  text-decoration: none;
+  background-color: blue;
+ }
+ 
+.menubetu:hover
+ {
+  color: yellow;
+  background-color: green;
+ }  
+ 
+.rolam 
+ { 
+  padding-bottom: 20px;
+ }
+ 
+.rolam_jobb
+ {
+  width: 60%;
+  background-color: white;
+ }
+ 
+.rolam_bal
+ {
+  width: 60%;
+  background-color: white;
+ }  
+ 
+.rolam_szoveg
+ {
+  width: 100%;
+  font-size: 100%;
+  font-family: Arial,Arial,sans-serif;
+  
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+  color: black;
+ }  
+ 
+.rolam_kep
+ {
+  width: 100%;
+ } 
+ 
+.kepek
+ {
+  padding-top: 10px;
+  padding-bottom: 10px;
+ } 
+ 
+.kepek_kep
+ {
+  width: 80%;
+  padding-bottom: 10px;
+ } 
+ 
+.leiras
+ {
+  padding-bottom: 30px;
+ } 
+ 
+.leiras_szoveg
+ {
+   margin-top: 10px;
+  font-size: 100%;
+  font-family: Arial,Arial,sans-serif;
+  
+  padding-bottom: 15px;
+  
+  color: black;
+ }
+ 
+.leiras_kep
+ {
+  width: 70%;  
+  padding-bottom: 15px;
+ }
+ 
+.fokep
+ {
+  width: 100%
+ } 
+ 
+ .iskola-szoveg{
+  font-style: italic;
+ }
+ .klarinet-szoveg{
+  font-style: italic;
+ }
+ .bme-szoveg{
+  font-style: italic;
+ }
+ span{
+  display: block;
+ }
+ .elerhetosegek{
+   text-align: left;
+ }
+ .forras{
+   text-align: left;
+    
+ }
+ .szoveg1{
+   padding: 5px;
+ }
+ 
